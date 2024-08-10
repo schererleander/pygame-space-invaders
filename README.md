@@ -7,10 +7,11 @@ A Pygame recreation of the classic Space Invaders game for a school project.
 - Destroyable bunkers
 - Extra lives
 - Waves
+- Scoreboard
 
 ## Controls
-* **Arrow Keys**: Move left/right
-* **Spacebar**: Shoot
+- **Arrow Keys**: Move left/right
+- **Spacebar**: Shoot
 
 ## Getting Started
 1. Clone the repository:
