@@ -1,5 +1,5 @@
 # Space Invaders
-![screenshot](/.assets/screenshot.png)
+![screenshot](screenshot.png)
 A Pygame recreation of the classic Space Invaders game for a school project.
 
 ## Features
